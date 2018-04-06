@@ -1,4 +1,4 @@
-xinshangjun
+xinshangjun 2005
 jQuery TinyTimer Plugin
 =======================
 
