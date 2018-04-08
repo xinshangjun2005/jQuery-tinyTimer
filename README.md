@@ -1,4 +1,4 @@
-xinshangjun 2005
+第一次修改
 jQuery TinyTimer Plugin
 =======================
 
